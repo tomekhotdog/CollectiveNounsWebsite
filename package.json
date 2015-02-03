@@ -1,7 +1,11 @@
 {
 	"name": "CollectiveNouns",
 	"version": "0.0.1",
-	"private": "true",
+	"private": "false",
+	"main": "index.js",
+	"scripts": {
+		"start": "node app.js"
+	},
 	"dependencies": {
 		"express": "3.0.0alpha4",
 		"jade": "*",
