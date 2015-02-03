@@ -1,7 +1,7 @@
 {
 	"name": "CollectiveNouns",
 	"version": "0.0.1",
-	"private": "false",
+	"private": "true",
 	"main": "index.js",
 	"scripts": {
 		"start": "node app.js"
